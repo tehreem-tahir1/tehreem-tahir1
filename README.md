@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 I'm a Full Stack Developer passionate about building scalable web applications and intelligent automation systems.  
-I specialize in creating end-to-end solutions that combine **frontend elegance** with **robust backend architecture**, with expertise in **cloud infrastructure** and **AI agent development**.
+I specialize in creating end-to-end solutions that combine **frontend elegance** with **robust backend architecture**, with expertise in **cloud infrastructure** and **AI agent development**..
 
 ---
 
